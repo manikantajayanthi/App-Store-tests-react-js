@@ -1,0 +1,21 @@
+.app-type {
+  color: #7b8794;
+  background-color: transparent;
+  border-color: transparent;
+  cursor: pointer;
+  font-family: 'Bree Serif';
+}
+
+.list-tab-item {
+  list-style-type: none;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.active-class {
+  color: #2563eb;
+}
+
+.horizontal-line {
+  border-color: #2563eb;
+}
